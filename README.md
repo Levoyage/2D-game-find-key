@@ -1,8 +1,8 @@
-# Luna's Quest
+# Luna's Adventure
 
 ## Overview
 
-**Luna's Quest** is a 2D pixel art game developed in pure Java. In this adventure, you play as a brave heroine who embarks on a quest to find a key and unlock the treasure chest. Navigate through various levels, overcome obstacles, and solve puzzles to complete your journey!
+**Luna's Adventure** is a 2D pixel art game developed in pure Java. In this adventure, you play as a brave heroine who embarks on a quest to find a key and unlock the treasure chest. Navigate through various levels, overcome obstacles, and solve puzzles to complete your journey!
 
 ## Features
 
